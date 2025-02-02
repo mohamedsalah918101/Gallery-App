@@ -1,16 +1,16 @@
-# image_picker
+# Gallery App
 
-A new Flutter project.
+This Flutter app allows users to pick multiple images from their device's gallery and display them in a `ListView`.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays selected images in a `ListView`.
+- Allows users to pick multiple images from the gallery.
+- Well-structured code with separate widget files.
+- Clear and self-explanatory variable and function names.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/mohamedsalah918101/Gallery-App.git
